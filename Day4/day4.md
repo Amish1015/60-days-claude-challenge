@@ -33,3 +33,5 @@ A Chain-of-Thought prompt produced a structured plan with clear next steps.
 AI is far more powerful when you guide its reasoning, not just request an answer.The better the prompt structure, the better the outcome.
 
 <img width="1472" height="1380" alt="image" src="https://github.com/user-attachments/assets/50b2ff40-f1d3-460c-af85-f8cb65dae641" />
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/c34c0cb6-f01e-4932-9ced-bd343c0023c8" />
+
